@@ -1,0 +1,10 @@
+export const SET_LOADING = 'SET_LOADING';
+
+export const LOGIN_REQUEST = 'LOGIN_REQUEST';
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAILED = 'LOGIN_FAILED';
+
+export const EVENT_REQUEST = 'EVENT_REQUEST';
+export const EVENT_SUCCESS = 'EVENT_SUCCESS';
+export const EVENT_FAILED = 'EVENT_FAILED';
+
